@@ -7,4 +7,4 @@ youtubeId: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 abcdefg
 
 
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubePlayer.html id=page.https://www.youtube.com/watch?v=dQw4w9WgXcQ %}
